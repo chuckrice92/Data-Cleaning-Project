@@ -35,7 +35,6 @@ The dataset contains customer information such as:
 * Python
 * Jupyter Notebook
 * pandas
-* Matplotlib
 
 ## Data Cleaning
 
@@ -46,7 +45,6 @@ The following cleaning tasks were performed:
 * Checked for duplicate records
 * Converted columns to appropriate data types
 * Corrected invalid ages and employment years
-* Cleaned the `default_status` column
 * Standardized categorical values
 * Cleaned phone numbers and ZIP codes
 * Checked email formatting
